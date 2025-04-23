@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vibhav Ucharia</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">An aspiring Data Scientist </h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s640x960/3651bf25086a66b495e5af8e82cec16613df9c44.gifv">
 
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **LLM, GenAI stuff**
+- 🌱 I’m currently learning **GenAI, Agentic AI **
 
-- 💬 Ask me about **ML, DL, MLOps**
+- 💬 Ask me about **Agents, LLMs, GenAI**
 
 - 📫 How to reach me **vibhavucharia.work@gmail.com**
 
