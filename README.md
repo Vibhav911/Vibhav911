@@ -1,7 +1,9 @@
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s640x960/3651bf25086a66b495e5af8e82cec16613df9c44.gifv">
+
+
 # 💫 About Me:
 I'm an Aspiring Data Scientist.<br>I'm learning GenAI, Agentic AI Application
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s640x960/3651bf25086a66b495e5af8e82cec16613df9c44.gifv">
 
 
 ## 🌐 Socials:
